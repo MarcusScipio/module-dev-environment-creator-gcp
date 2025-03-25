@@ -286,9 +286,3 @@ Contributions are welcome! Please feel free to submit a Pull Request with improv
 ## 📜 License
 
 This module is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgements
-
-- Terraform team for their excellent infrastructure as code tool
-- Google Cloud Platform for their comprehensive cloud services
-- GitHub team for the excellent Actions workflow automation
